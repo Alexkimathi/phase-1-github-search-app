@@ -58,7 +58,4 @@ function renderRepoList(person){
         })
     })
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
+
